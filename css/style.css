@@ -11,6 +11,11 @@ h1 {
     text-align: center;
     color: black;
 }
+button{
+    vertical-align: center;
+    color: red;
+    
+}
 
 section {
     border: 2px solid black;
