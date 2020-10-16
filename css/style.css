@@ -9,10 +9,10 @@ body {
 
 h1 {
     text-align: center;
-    color: black;
+    color: blue;
 }
 button{
-    vertical-align: center;
+    vertical-align: right;
     color: red;
     
 }
@@ -31,9 +31,9 @@ section>h2 {
     width: 230px;
     text-align: center;
     font-style: Times;
-    font-size: 24px;
+    font-size: 22px;
     font-weight: bold;
-    height: 45px;
+    height: 47px;
     padding-top: 10px;
 }
 
